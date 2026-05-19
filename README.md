@@ -4,10 +4,10 @@
   <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <a href="https://www.figma.com/@kairo8" target="blank">
-  <img align="left" alt="Figma" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/figma.svg" />
+  <img align="left" alt="Figma" width="22px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 </a>
 <a href="mailto:humaamahmed40@gmail.com" target="blank">
-  <img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" />
+  <img align="left" alt="Email" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 
 <br /><br />
@@ -92,12 +92,10 @@ That's why I like to make things that make a difference.
 ## 📊 GitHub Stats
 
 <p>
-  <a href="https://github.com/Humaam-04-06">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Humaam-04-06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/Humaam-04-06">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humaam-04-06&layout=compact&theme=tokyonight" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Humaam-04-06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humaam-04-06&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <br />
