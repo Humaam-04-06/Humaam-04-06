@@ -92,10 +92,10 @@ That's why I like to make things that make a difference.
 ## 📊 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Humaam-04-06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Humaam-04-06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humaam-04-06&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Humaam-04-06&layout=compact&theme=tokyonight" />
 </p>
 
 <br />
