@@ -81,6 +81,86 @@ That's why I like to make things that make a difference.
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
+<br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,dotnet,laravel,bootstrap,jquery,tailwind&perline=5" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,figma,postman&perline=7" />
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#" />
+        <br>C#
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65" height="65" alt="PHP" />
+        <br>PHP
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="65" height="65" alt="Laravel" />
+        <br>Laravel
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="65" height="65" alt="ASP.NET Core" />
+        <br>ASP.NET
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="65" height="65" alt="Bootstrap" />
+        <br>Bootstrap
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="65" height="65" alt="jQuery" />
+        <br>jQuery
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" alt="Tailwind" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="65" height="65" alt="SQL Server" />
+        <br>SQL Server
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code" />
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" alt="Figma" />
+        <br>Figma
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -103,6 +183,13 @@ That's why I like to make things that make a difference.
 [![GitHub Streak](https://streak-stats.demolab.com?user=Humaam-04-06&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
+
+
+## 📈 Contribution Graph
+
+[![Kairo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Humaam-04-06&bg_color=0D1117&color=00D1FF&line=6E56CF&point=F0F6FC&area=true&area_color=6E56CF&hide_border=true&title_color=F0F6FC)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+--- 
 
 ## 🚀 Featured Projects
 
