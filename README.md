@@ -12,6 +12,8 @@
 
 <br /><br />
 
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FHumaam-04-06&style=for-the-badge)](https://rankistan.dev)
+
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Humaam-04-06.Humaam-04-06)
 
 I'm a Full-Stack Web Developer with a passion for building clean, functional, and well-designed web applications. I work across the entire stack — from crafting pixel-perfect frontends to architecting robust backend systems.
