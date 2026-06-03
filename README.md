@@ -30,7 +30,7 @@ That's why I like to make things that make a difference.
 - 🚌 **Currently Building** [SRC Travel](https://github.com/Humaam-04-06) — a full bus booking system
 - 🌱 Currently leveling up in **JavaScript** and **C# / .NET**
 - 💬 Ask me about **anything web development**, I'm happy to help
-- 👯 Check out my portfolio: **[syed-humaam-ahmed.vercel.app](https://syed-humaam-ahmed.vercel.app/)**
+- 👯 Check out my portfolio: **[syed-humaam-ahmed.vercel.app](https://humaam-portfolio-one.vercel.app/)**
 - 📬 How to reach me: **[humaamahmed40@gmail.com](mailto:humaamahmed40@gmail.com)**
 - 🇵🇰 Based in **Karachi, Pakistan** — working globally as a freelancer
 - ⚡ Fun fact: *I talk to myself more than people. Deep thoughts, late nights, quiet ambition.*
