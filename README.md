@@ -24,11 +24,11 @@ As a developer, I blend meticulous attention to detail with a relentless drive t
 
 ### 🌟 About Me & What I'm Doing:
 
-- 👨‍💻 **Full-Stack Developer** — React.js, GSAP, Tailwind CSS, ASP.NET Core, C#, PHP / Laravel, MongoDB
+- 👨‍💻 **Full-Stack Developer** — React.js, GSAP, Tailwind CSS, Python, ASP.NET Core, C#, PHP / Laravel, MongoDB
 - ⚡ **Currently Building**: **Database Query Optimization** — SQL query rewriters, performance analysis, and indexing architecture
 - 🎨 **Leveling Up**: **3D Animations** (Three.js, WebGL & creative web development)
 - 🚌 **Past Major Projects**: [SRC Travel](https://github.com/Humaam-04-06) — end-to-end bus booking ecosystem
-- 💬 Ask me about **Full-Stack Engineering, Query Optimization, or Web Animations**
+- 💬 Ask me about **Full-Stack Engineering, Query Optimization, Python, or Web Animations**
 - 🌐 Check out my portfolio: **[syed-humaam-ahmed.vercel.app](https://humaam-portfolio-seven.vercel.app/)**
 - 📬 How to reach me: **[humaamahmed40@gmail.com](mailto:humaamahmed40@gmail.com)**
 - 🇵🇰 Based in **Karachi, Pakistan** — working globally
@@ -41,12 +41,14 @@ As a developer, I blend meticulous attention to detail with a relentless drive t
 <h3 align="center">👨‍💻 Programming Languages</h3>
 
 <p align="center">
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"></a>
+  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white"></a>
+  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white"></a>
-  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
@@ -90,7 +92,7 @@ As a developer, I blend meticulous attention to detail with a relentless drive t
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,cs,dotnet,laravel,bootstrap,jquery&perline=6" alt="Tech Skills" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,react,tailwind,cs,dotnet,laravel,bootstrap,jquery&perline=5" alt="Tech Skills" />
   </a>
 </p>
 <p align="center">
@@ -104,6 +106,10 @@ As a developer, I blend meticulous attention to detail with a relentless drive t
 <div align="center">
   <table>
     <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Python" />
+        <br>Python
+      </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="React" />
         <br>React
@@ -127,10 +133,6 @@ As a developer, I blend meticulous attention to detail with a relentless drive t
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65" height="65" alt="PHP" />
         <br>PHP
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="65" height="65" alt="Laravel" />
-        <br>Laravel
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="65" height="65" alt="ASP.NET Core" />
@@ -186,19 +188,19 @@ As a developer, I blend meticulous attention to detail with a relentless drive t
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats & Consistency</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Humaam-04-06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Humaam's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Humaam-04-06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Humaam's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Humaam-04-06&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Humaam-04-06&layout=compact&theme=tokyonight&hide=html,css&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Humaam-04-06&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Humaam-04-06&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -235,7 +237,7 @@ As a developer, I blend meticulous attention to detail with a relentless drive t
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Humaam-04-06/Humaam-04-06/output/pacman-contribution-graph.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Humaam-04-06/Humaam-04-06/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Humaam-04-06/Humaam-04-06/output/pacman-contribution-graph.svg" />
     <img alt="pacman-graph" src="https://raw.githubusercontent.com/Humaam-04-06/Humaam-04-06/output/pacman-contribution-graph.svg" />
   </picture>
