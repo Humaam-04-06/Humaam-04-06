@@ -1,42 +1,85 @@
-# Welcome to [Syed Humaam Ahmed's](https://syed-humaam-ahmed.vercel.app/) profile!
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/syed-ahmed-41b394385/" target="blank">
-    <img alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+# Hi there, I'm <a href="https://syed-humaam-ahmed.vercel.app/">Syed Humaam Ahmed</a> 👋
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Full-Stack+Engineer+%7C+Creative+Technologist+%F0%9F%9A%80;Building%3A+Database+Query+Optimizer+%E2%9A%A1;Crafting+Interactive+3D+Web+%26+GSAP+Experiences+%F0%9F%8E%A8;React+%E2%80%A2+GSAP+%E2%80%A2+Tailwind+%E2%80%A2+Python+%E2%80%A2+ASP.NET+%E2%80%A2+MongoDB;Turning+Complex+Logic+into+High-Performance+Web+Apps" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/syed-ahmed-41b394385/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="https://www.figma.com/@kairo8" target="blank">
-    <img alt="Figma" width="22px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+  <a href="https://humaam-portfolio-seven.vercel.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>&nbsp;
-  <a href="mailto:humaamahmed40@gmail.com" target="blank">
-    <img alt="Email" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <a href="mailto:humaamahmed40@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.figma.com/@kairo8" target="_blank">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://rankistan.dev" target="_blank">
+    <img alt="Rankistan" src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FHumaam-04-06&style=for-the-badge" />
   </a>
 </p>
 
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FHumaam-04-06&style=for-the-badge)](https://rankistan.dev)
-
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Humaam-04-06.Humaam-04-06)
-
-I'm a **Full-Stack Web Developer** passionate about building clean, functional, high-performance, and visually captivating applications. I work across the entire stack — from crafting pixel-perfect, interactive frontends with smooth animations to architecting scalable backend APIs and robust database systems.
-
-As a developer, I blend meticulous attention to detail with a relentless drive to solve real-world engineering problems end-to-end.
-
-<img align="right" alt="Coding" width="360" src="https://github.com/AswinBarath/AswinBarath/raw/master/coding.gif?raw=true" />
-
-### 🌟 About Me & What I'm Doing:
-
-- 👨‍💻 **Full-Stack Developer** — React.js, GSAP, Tailwind CSS, Python, ASP.NET Core, C#, PHP / Laravel, MongoDB
-- ⚡ **Currently Building**: **Database Query Optimization** — SQL query rewriters, performance analysis, and indexing architecture
-- 🎨 **Leveling Up**: **3D Animations** (Three.js, WebGL & creative web development)
-- 🚌 **Past Major Projects**: [SRC Travel](https://github.com/Humaam-04-06) — end-to-end bus booking ecosystem
-- 💬 Ask me about **Full-Stack Engineering, Query Optimization, Python, or Web Animations**
-- 🌐 Check out my portfolio: **[syed-humaam-ahmed.vercel.app](https://humaam-portfolio-seven.vercel.app/)**
-- 📬 How to reach me: **[humaamahmed40@gmail.com](mailto:humaamahmed40@gmail.com)**
-- 🇵🇰 Based in **Karachi, Pakistan** — working globally
-- ⚡ Fun fact: *I talk to myself more than people. Deep thoughts, late nights, quiet ambition.*
+</div>
 
 ---
 
-<h2 align="center">🛠️ My Favourite Tools</h2>
+## 🚀 Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Humaam-04-06.Humaam-04-06)
+
+I'm a **Full-Stack Web Developer & Creative Technologist** passionate about architecting scalable systems, optimizing high-performance databases, and engineering fluid, animated web interfaces. From low-level SQL optimization and robust backend APIs to immersive 3D frontend interactions with GSAP and Three.js, I build software that blends technical depth with exceptional user experience.
+
+<img align="right" alt="Coding GIF" width="360" src="https://github.com/AswinBarath/AswinBarath/raw/master/coding.gif?raw=true" />
+
+### 🌟 Quick Snapshot:
+
+- 👨‍💻 **Primary Stack**: React.js, GSAP, Tailwind CSS, Python, ASP.NET Core, C#, PHP / Laravel, MongoDB, MySQL
+- ⚡ **Flagship Build**: **Database Query Optimizer** — intelligent SQL AST rewriter, execution cost estimator & indexing recommendations
+- 🎨 **Leveling Up**: **3D Web Engineering** (Three.js, WebGL & cinematic GSAP scroll triggers)
+- 🚌 **Enterprise Engineering**: [SRC Travel](https://github.com/Humaam-04-06) — end-to-end bus reservation ecosystem with multi-role portals
+- 💬 Ask me about: **Full-Stack Architecture, Query Optimization, Python scripting, or Web Animations**
+- 🌐 Explore my creations: **[syed-humaam-ahmed.vercel.app](https://humaam-portfolio-seven.vercel.app/)**
+- 📬 Get in touch: **[humaamahmed40@gmail.com](mailto:humaamahmed40@gmail.com)**
+- 🇵🇰 Based in **Karachi, Pakistan** — collaborating globally
+- ⚡ Fun fact: *I talk to myself more than people. Deep thoughts, late nights, quiet ambition.*
+
+<br/>
+
+---
+
+## 📡 Current Radar & Active Sprint
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <b>🚀 Active Engineering Sprint</b><br/>
+        Architecting <b>Database Query Optimizer</b> — building SQL query AST parsers, automated rewrite rules, index advisor algorithms, and visual execution diffs.
+      </td>
+      <td width="50%">
+        <b>🧪 3D & Creative Lab</b><br/>
+        Experimenting with <b>Three.js, WebGL & GSAP</b> — designing physics-based canvas interactions, shader effects, and interactive creative web layouts.
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <b>📖 Deep Research</b><br/>
+        Studying <b>Database Engine Internals</b>, B-Tree & LSM indexing performance, query planner cost models, and caching architectures.
+      </td>
+      <td width="50%">
+        <b>🤝 Open For Collaboration</b><br/>
+        Available for modern Full-Stack engineering, interactive web applications, open-source performance tooling, and freelance projects.
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">🛠️ Technical Arsenal & Toolkit</h2>
 
 <h3 align="center">👨‍💻 Programming Languages</h3>
 
@@ -52,7 +95,7 @@ As a developer, I blend meticulous attention to detail with a relentless drive t
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
-<h3 align="center">🧰 Frameworks and Libraries</h3>
+<h3 align="center">🧰 Frameworks & Libraries</h3>
 
 <p align="center">
   <a href="#"><img alt="React.js" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></a>
@@ -65,7 +108,7 @@ As a developer, I blend meticulous attention to detail with a relentless drive t
   <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white"></a>
 </p>
 
-<h3 align="center">🗄️ Databases and Hosting</h3>
+<h3 align="center">🗄️ Databases & Cloud</h3>
 
 <p align="center">
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"></a>
@@ -75,7 +118,7 @@ As a developer, I blend meticulous attention to detail with a relentless drive t
   <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
-<h3 align="center">💻 Software, Creative & Tools</h3>
+<h3 align="center">💻 Software, 3D & Tools</h3>
 
 <p align="center">
   <a href="#"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-black?logo=three.js&logoColor=white"></a>
@@ -107,70 +150,70 @@ As a developer, I blend meticulous attention to detail with a relentless drive t
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Python" />
-        <br>Python
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" />
+        <br><b>Python</b>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="React" />
-        <br>React
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" />
+        <br><b>React</b>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
-        <br>JavaScript
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript" />
+        <br><b>JavaScript</b>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#" />
-        <br>C#
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60" height="60" alt="C#" />
+        <br><b>C#</b>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" />
-        <br>MongoDB
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
+        <br><b>MongoDB</b>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
-        <br>MySQL
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60" alt="MySQL" />
+        <br><b>MySQL</b>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65" height="65" alt="PHP" />
-        <br>PHP
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" alt="PHP" />
+        <br><b>PHP</b>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="65" height="65" alt="ASP.NET Core" />
-        <br>ASP.NET
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" alt="ASP.NET Core" />
+        <br><b>ASP.NET</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" alt="Tailwind" />
-        <br>Tailwind
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind" />
+        <br><b>Tailwind</b>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="65" height="65" alt="Bootstrap" />
-        <br>Bootstrap
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap" />
+        <br><b>Bootstrap</b>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="65" height="65" alt="jQuery" />
-        <br>jQuery
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="60" height="60" alt="jQuery" />
+        <br><b>jQuery</b>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="65" height="65" alt="SQL Server" />
-        <br>SQL Server
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" height="60" alt="SQL Server" />
+        <br><b>SQL Server</b>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-        <br>GitHub
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub" />
+        <br><b>GitHub</b>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
-        <br>Git
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" />
+        <br><b>Git</b>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code" />
-        <br>VS Code
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" />
+        <br><b>VS Code</b>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" alt="Figma" />
-        <br>Figma
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" alt="Figma" />
+        <br><b>Figma</b>
       </td>
     </tr>
   </table>
@@ -178,35 +221,38 @@ As a developer, I blend meticulous attention to detail with a relentless drive t
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🍱 Bento Grid • Activity, Stats & Achievements</h2>
 
-<p align="center">
-  <a href="https://github.com/Humaam-04-06">
-    <img src="https://github-trophies.vercel.app/?username=Humaam-04-06&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Humaam-04-06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Humaam's GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Humaam-04-06&layout=compact&theme=tokyonight&hide=html,css&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=Humaam-04-06&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://github.com/Humaam-04-06">
+          <img src="https://github-trophies.vercel.app/?username=Humaam-04-06&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Consistency</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Humaam-04-06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Humaam's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Humaam-04-06&layout=compact&theme=tokyonight&hide=html,css&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Humaam-04-06&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">📈 30-Day Activity Curve</h2>
 
 <p align="center">
   <a href="https://github.com/Humaam-04-06">
@@ -214,26 +260,56 @@ As a developer, I blend meticulous attention to detail with a relentless drive t
   </a>
 </p>
 
---- 
+---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Featured Engineering Projects</h2>
 
-<div align="left">
-
-- **[⚡ Database Query Optimizer](https://github.com/Humaam-04-06)** — Intelligent SQL query analysis, rewriting, indexing advisor & performance optimization engine · `TypeScript` `React` `SQL` `Tailwind CSS`
-- **[🚌 SRC Travel](https://github.com/Humaam-04-06)** — Bus booking system with Admin, Employee & Customer portals · `C#` `ASP.NET Core` `SQL Server` `EF Core`
-- **[🎡 Merciado Amusement Park](https://github.com/Humaam-04-06/Merciado_Amusement_Park)** — Full amusement park website with ticketing & attractions · `HTML` `CSS` `Bootstrap` `JS`
-- **[🌍 The Civilizations Explorer](https://github.com/Humaam-04-06)** — Interactive educational site covering 7 ancient civilizations · `HTML` `CSS` `JavaScript`
-- **[🧠 SkillSwap.AI](https://github.com/Humaam-04-06)** — AI-powered skill exchange chat assistant · `HTML` `CSS` `JavaScript`
-- **[🌐 Portfolio](https://syed-humaam-ahmed.vercel.app/)** — Personal portfolio with 20+ projects across 2023–2026
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>⚡ <a href="https://github.com/Humaam-04-06">Database Query Optimizer</a></h3>
+        <p>Intelligent SQL query performance analyzer and AST rewriter. Detects N+1 queries, Cartesian explosions, suggests indexes, and generates visual side-by-side SQL diffs.</p>
+        <p><code>TypeScript</code> • <code>React</code> • <code>SQL</code> • <code>Tailwind CSS</code></p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🚌 <a href="https://github.com/Humaam-04-06/Online-Bus-Ticket-Reservation-System">SRC Travel</a></h3>
+        <p>Enterprise bus reservation platform featuring role-based portals (Admin, Employee, Passenger), seat matrix allocation, automated receipt generation, and real-time scheduling.</p>
+        <p><code>C#</code> • <code>ASP.NET Core</code> • <code>SQL Server</code> • <code>EF Core</code></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🎡 <a href="https://github.com/Humaam-04-06/Merciado_Amusement_Park">Merciado Amusement Park</a></h3>
+        <p>Dynamic amusement park portal featuring ticketing checkout, attractions showcase, gallery sliders, and responsive mobile-first UI design.</p>
+        <p><code>HTML5</code> • <code>CSS3</code> • <code>Bootstrap</code> • <code>JavaScript</code></p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🧠 <a href="https://github.com/Humaam-04-06/SkillSwap.AI">SkillSwap.AI</a></h3>
+        <p>AI-assisted collaborative skill-exchange platform with real-time matchmaking assistant, interactive chat interface, and profile portfolios.</p>
+        <p><code>JavaScript</code> • <code>HTML5</code> • <code>CSS3</code> • <code>AI Chat</code></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🌍 <a href="https://github.com/Humaam-04-06/Ancient-Civilization">The Civilizations Explorer</a></h3>
+        <p>Rich interactive educational museum detailing 7 ancient world civilizations with interactive maps, timeline journeys, and 3D-inspired storytelling.</p>
+        <p><code>TypeScript</code> • <code>JavaScript</code> • <code>CSS3</code></p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🌐 <a href="https://humaam-portfolio-seven.vercel.app/">Interactive Portfolio</a></h3>
+        <p>Modern developer portfolio featuring 20+ engineering projects spanning 2023–2026, interactive OS-style demos, and sleek animations.</p>
+        <p><code>React</code> • <code>Tailwind CSS</code> • <code>Vercel</code></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <h2 align="center">🐍 Activity & Contributions</h2>
 
-<h3 align="center">🟡 Pac-Man eats my contributions</h3>
+<h3 align="center">🟡 Pac-Man Eats My Contributions</h3>
 
 <p align="center">
   <picture>
@@ -242,3 +318,20 @@ As a developer, I blend meticulous attention to detail with a relentless drive t
     <img alt="pacman-graph" src="https://raw.githubusercontent.com/Humaam-04-06/Humaam-04-06/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
+
+---
+
+<h2 align="center">⚡ Daily Developer Humor & Wisdom</h2>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=1a1b27&hideBorder=true" alt="Daily Dev Joke" />
+</p>
+
+---
+
+<div align="center">
+  <p>
+    <b>Syed Humaam Ahmed</b> • Engineered with passion, precision & coffee ☕<br/>
+    <i>"Quiet ambition, loud execution."</i>
+  </p>
+</div>
